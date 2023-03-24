@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692281655355",
+    "firebase_url": "https://blue-chat-f529b-default-rtdb.firebaseio.com",
+    "project_id": "blue-chat-f529b",
+    "storage_bucket": "blue-chat-f529b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692281655355:android:a46b7d14a716c586b31c1e",
+        "android_client_info": {
+          "package_name": "com.itproger.bluechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692281655355-cq5i06vaouaug9oknbtv5klq4fdceumm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itproger.bluechat",
+            "certificate_hash": "44801363e5ebae147b2347e1cec68570de77c101"
+          }
+        },
+        {
+          "client_id": "692281655355-tsb1en8eh9e6vrqplnbl4brnmlahnv3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlw_BXG-7tfkV1sE3pxXl13oQWUN9C6o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692281655355-9o67d1bv5fv5e2va7bgr0r3fb151obcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
